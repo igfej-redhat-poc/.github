@@ -1,4 +1,4 @@
-# IGFEJ / Red Hat DEMO
+# IGFEJ / Red Hat PoC
 
 This organization contains private repos involved in the PoC use-cases with the [*Red Hat Application Foundations*](https://access.redhat.com/products/red-hat-application-foundations/) products.
 
