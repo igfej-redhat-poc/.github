@@ -5,5 +5,5 @@ This organization contains private repos involved in the PoC use-cases with the 
 Main repositories:
 - [use-case 1](../../../../use-case-1/)
 - [use-case 2](../../../../use-case-2/)
-- [use-case 2](../../../../use-case-3/)
+- [use-case 3](../../../../use-case-3/)
 - [use-case 4](../../../../use-case-4/)
